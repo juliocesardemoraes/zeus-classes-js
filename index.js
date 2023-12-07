@@ -1,2 +1,4 @@
-const teste = true;
-console.log("teste", teste);
+// Aula1 - Literal string
+const variavelDentroDoTexot = "blablab";
+const texto = `${variavelDentroDoTexot} TEste`;
+console.log(texto);
